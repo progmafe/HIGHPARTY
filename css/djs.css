@@ -36,71 +36,18 @@ body{
     width: 100px;
 }
 /*END-NAVBAR*/
+/*MEIO DO SITE*/
 
-/* MEIO DO SITE */
-
-section.social {
-    color: whitesmoke;
-    text-transform: uppercase;
-    padding-top: 40px;
-    padding-bottom: 70px;
+section.paginadjs {
+    padding: 50px 400px 100px;
 }
 
-section.social .djs {
-    display: flex;
-}
-
-section.social img.imgDj {
-    width: 100px;
+img.imgDj {
     border-radius: 100%;
-    margin-right: 35px;
-}
-
-section.social img.imgDj:hover{
-    border-style: solid;
-    border-width: 5px;
-    border-color: #FFD700; 
-}
-
-section.social .djs p{
-    font-size: small;
-}
-
-.player1 audio{
-    width: 640px;
-    mix-blend-mode: color-burn;
-}
-
-.himix{
-    display: flex;
-}
-
-.col-md-5 h1{
-    font-weight: 400;
-    font-size: 25px;
-}
-
-.recomendados{
-    display: flex;
-}
-
-.onStage{
-    display: flex;
-}
-
-img.imagem{
-width: 150px;
-}
-
-audio{
-    width: 150px;
-    height: 35px;
-    mix-blend-mode: color-burn;
-    filter: drop-shadow(2px 4px 6px black);
+    width: 390px;
 }
 
 /*FIM DO MEIO DO SITE*/
-
 /*FIM DO SITE */
 .footer{
     right: 0;

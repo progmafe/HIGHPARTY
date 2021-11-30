@@ -44,6 +44,10 @@ body{
     color: #FFFF00;       
 }
 
+form {
+    margin-top: -35px;
+}
+
 .forms{ 
     padding: 4px 5px 4px 15px;    
     width: 35rem;    
@@ -70,6 +74,7 @@ body{
     font-weight: bold;
     border-style: hidden;
     text-transform: uppercase; 
+    border-radius: 100px;
 }
 
 .aside{
