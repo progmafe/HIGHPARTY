@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,300;0,500;0,700;0,900;1,200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,700;1,100;1,300;1,400&display=swap');
+
+
+/* CONFIG PADRÃO DA PAGINA */
+body{    
+    background-image: url(../image/background.png);  
+    background-size:cover;
+    background-position: center;
+    font-family: 'Roboto', sans-serif !important; 
+    text-transform: uppercase;
+    font-weight: 600 !important;
+}
+
+.container {
+    padding: 40px 0;
+}
+
+/* CONFIG LOGOTIPO */
+#logo{
+    width: 30%;
+    margin-left: 409px;
+}
+
+/* CONFIG FORMULARIO LOGIN / SENHA */
+.form{
+    display: flex;
+    justify-content: center;        
+}
+
+.form fieldset label{  
+    margin: 15px;  
+    color: yellow;    
+}
+
+.form_user {    
+    padding: 4px 5px 4px 15px;
+    width: 100%;
+    background: #fff9b6;
+    border-color: yellow;
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 100px;   
+    color: black;
+    font-weight: bold;
+}
+
+.form_password{
+    padding: 5px 15px;
+    width: 100%;
+    background: #fff9b6;
+    border-color: yellow;
+    border-style: solid;    
+    border-width: 5px;
+    border-radius: 100px;
+}
+
+.button {        
+    margin:20px;
+    display: flex;
+    justify-content: center;    
+}
+
+.button button{  
+    height: 38px;
+    width: 100px;
+    background: yellow;
+    border-style: hidden;
+    border-radius: 100px;
+}
+
+button.btn_entrar {
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+/* POSIÇÃO CADASTRO */
+.aside{
+    display: flex;
+    justify-content: center;    
+}
+
+.aside label{
+    margin-right: 5px;
+    color: yellow;
+    font-style: italic;
+}
+
+.aside a{
+    color: white;
+    font-size: 12px;
+    margin-top: 3px;
+}
+
+fonte {
+    color: white;
+    font-size: 20px;
+}
+
+/* END POSIÇÃO CADASTRO */
+
+/* FOOTER */
+.footer{
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 5px;
+    background-color: #C0C0C0;
+    color:#000000;
+    text-align: center;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+/* END-FOOTER */
+ 
+
+  
+ 

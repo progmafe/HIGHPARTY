@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,300;0,500;0,700;0,900;1,200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,700;1,100;1,300;1,400&display=swap');
+
+
+/* CONFIG PADRÃO DA PAGINA */
+body{    
+    background-image: url(../image/background.png);  
+    background-size:cover;
+    background-position: center;
+    font-family: 'Roboto', sans-serif !important;
+    font-size: 15px;
+    font-weight: 600;  
+    text-transform: uppercase;   
+}
+
+.container {
+    padding: 40px 0;
+}
+
+/* CONFIG LOGOTIPO */
+#logo{       
+    width: 30%;
+    margin-left: 409px;    
+}
+
+.mensagem{
+    display: flex;
+    align-items: center;
+    justify-content: center;    
+}
+
+.form{    
+    padding: 10px;
+    display: flex;
+    justify-content: center; 
+}
+
+.form fieldset label{ 
+    margin-left: 10px;
+    font-weight: bold; 
+    margin-top: 20px;
+    display: flex;        
+    flex-direction: column;       
+    color: #FFFF00;       
+}
+
+.forms{ 
+    padding: 4px 5px 4px 15px;    
+    width: 35rem;    
+    background: #fff9b6;
+    border-color: #FFD700;
+    border-radius: 100px;
+    border-style: solid;
+    border-width: 5px;    
+    color: black;
+    font-weight: bold;    
+}
+
+.button {        
+    margin:20px;  
+    display: flex;
+    justify-content: center;    
+}
+
+.button button{ 
+    margin-left: 10px; 
+    padding: 5px;
+    width: 120px;
+    background: #FFFF00;
+    font-weight: bold;
+    border-style: hidden;
+    text-transform: uppercase; 
+}
+
+.aside{
+    display: flex;
+    justify-content: center;    
+}
+
+.aside fonte{
+    color: white;
+}
+
+/* FOOTER */
+.footer { 
+    margin-top: 20px;    
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 5px;
+    background-color: #C0C0C0;
+    color:#000000;
+    text-align: center;
+    text-transform: capitalize;
+    font-weight: bold;
+}
+/* END-FOOTER */
+
+/* MENSAGEM SENHA */
+#mensagem{
+    width: 20%;
+}
+
+span{
+    padding: 6px 20px;
+    border-radius: 10px;
+}
+
+.erro{
+    background-color: #ffecec;
+    border: 1px solid #f5aca6;
+}
+
+.sucesso {
+    background-color: #e9ffd9;
+    border: 1px solid #a6ca8a;
+}
+
+.aviso {
+    background-color: #fff8c4;
+    border: 1px solid #f2c779;
+}
