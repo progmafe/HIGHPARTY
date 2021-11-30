@@ -51,9 +51,9 @@ section.social .djs {
 }
 
 section.social img.imgDj {
-    width: 110px;
+    width: 100px;
     border-radius: 100%;
-    margin-right: 20px;
+    margin-right: 35px;
 }
 
 section.social img.imgDj:hover{
@@ -62,10 +62,13 @@ section.social img.imgDj:hover{
     border-color: #FFD700; 
 }
 
+section.social .djs p{
+    font-size: small;
+}
+
 .player1 audio{
-    width: 400px;
+    width: 643px;
     mix-blend-mode: color-burn;
-    margin-left: 110px;
 }
 
 .himix{
@@ -90,7 +93,7 @@ width: 150px;
 }
 
 audio{
-    width: 100px;
+    width: 150px;
     height: 35px;
     mix-blend-mode: color-burn;
 }

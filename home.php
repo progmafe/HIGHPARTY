@@ -10,16 +10,14 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.css"/>
     <link rel="stylesheet" href="./css/home.css"/>     
     <link rel="stylesheet" href="./css/bootstrap.min.css"/>  
-    <link rel="stylesheet" href="./css/owl.carousel.css"/>
-    <link rel="stylesheet" href="./css/owl.carousel.min.css"/>
 
     <header>  
         <nav class="navbar">
             <div class="container" id="navbar-links">
-                <a class="navbar-brand"><img id="logo" src="./image/logocolor.png" href="https://techrabbit.rf.gd/home.php" alt="HighParty"/></a>
+                <a class="navbar-brand"><img id="logo" src="./image/logocolor.png" alt="HighParty"/></a>
                 <a class="nav-item nav-link" href="home.php"><i>Home</i></span></a>
                 <a class="nav-item nav-link" href="hi_mix.php"><i>Hi_mix</i></a>
-                <a class="nav-item nav-link" href="kodux.php"><i>Djs</i></a>
+                <a class="nav-item nav-link" href="djs.php"><i>Djs</i></a>
                 <a class="nav-item nav-link" href="highparty.php"><i>HighParty<fonte>Rave</fonte></i></a>  
                 <a class="nav-item nav-link" href="presskits.php"><i>Presskits</i></a>    
             </div>
@@ -64,13 +62,13 @@
                         </div>
                         <div class="carousel-inner">
                             <div class="carousel-item active">
-                            <img src="./image/retangulo.jpg" class="d-block w-100" alt="">
+                            <img src="./image/retangulo1.jpg" class="d-block w-100" alt="">
                             </div>
                             <div class="carousel-item">
-                            <img src="./image/retangulo.jpg"class="d-block w-100" alt="">
+                            <img src="./image/retangulo2.jpg"class="d-block w-100" alt="">
                             </div>
                             <div class="carousel-item">
-                            <img src="./image/retangulo.jpg"class="d-block w-100" alt="">
+                            <img src="./image/retangulo3.png"class="d-block w-100" alt="">
                             </div>
                         </div>
                     </div>
@@ -143,8 +141,6 @@
     <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js" integrity="sha384-QJHtvGhmr9XOIpI6YVutG+2QOK9T+ZnN4kzFN1RtK3zEFEIsxhlmWl5/YESvpZ13" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
-    <script> src="js/owl.carousel.js"</script>
-    <script> src="js/owl.carousel.min.js"</script>
   
 </body>
 </html>

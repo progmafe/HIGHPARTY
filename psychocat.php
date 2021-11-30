@@ -9,7 +9,7 @@
 <body>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.css"/>
-    <link rel="stylesheet" href="./css/kodux.css"/>     
+    <link rel="stylesheet" href="./css/psychocat.css"/>     
     <link rel="stylesheet" href="./css/bootstrap.min.css"/>  
 
     <header>  
@@ -35,12 +35,12 @@
             <div class="col-md-8">
                 <div class="divbio">
                     <div>
-                        <img src="./image/DJ1.png" class="imgDj" alt="Kodux"/>
-                        <p id="nomeDj">Kodux</p>
+                        <img src="./image/DJ4.png" class="imgDj" alt="Psychocat"/>
+                        <p id="nomeDj">Psycho Cat</p>
                     </div>
                     <div class="txtbio">
                         <h1>Bio</h1>
-                        <p><strong> Raphael Barros </strong>, Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos, 
+                        <p><strong> Nome do Dj </strong>, Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos, 
                             e vem sendo utilizado desde o século XVI, quando um impressor desconhecido pegou uma bandeja
                             de tipos e os embaralhou para fazer um livro de modelos de tipos. Lorem Ipsum sobreviveu não só
                             a cinco séculos, como também ao salto para a editoração eletrônica, permanecendo essencialmente inalterado.
