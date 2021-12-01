@@ -45,6 +45,7 @@ section.paginadjs {
 img.imgDj {
     border-radius: 100%;
     width: 390px;
+    filter: drop-shadow(2px 4px 15px black);
 }
 
 /*FIM DO MEIO DO SITE*/

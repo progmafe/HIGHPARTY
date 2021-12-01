@@ -18,7 +18,7 @@
                 <a class="navbar-brand"><img id="logo" src="./image/logocolor.png" alt="HighParty"/></a>
                 <a class="nav-item nav-link" href="home.php"><i>Home</i></span></a>
                 <a class="nav-item nav-link" href="hi_mix.php"><i>Hi_mix</i></a>
-                <a class="nav-item nav-link" href="dj.php"><i>Djs</i></a>
+                <a class="nav-item nav-link" href="djs.php"><i>Djs</i></a>
                 <a class="nav-item nav-link" href="highparty.php"><i>HighParty<fonte>Rave</fonte></i></a>  
                 <a class="nav-item nav-link" href="presskits.php"><i>Presskits</i></a>    
             </div>
@@ -35,8 +35,8 @@
             <div class="col-md-8">
                 <div class="divbio">
                     <div>
-                        <img src="./image/DJ5.png" class="imgDj" alt="Ozbits"/>
-                        <p id="nomeDj">Ozbits</p>
+                        <img src="./image/DJ6.png" class="imgDj" alt="Kvera"/>
+                        <p id="nomeDj">Kvera</p>
                     </div>
                     <div class="txtbio">
                         <h1>Bio</h1>

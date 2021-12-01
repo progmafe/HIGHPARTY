@@ -38,10 +38,13 @@
                         <a href="psychocat.php"><img src="./image/PC2.png" class="imgDj" alt="Psychocat"></a>
                     </div>
                     <div class="carousel-item text-center">
-                        <a href="ozbits.php"><img src="./image/DJ6.png" class="imgDj" alt="Ozbits"></a>
+                        <a href="chemical.php"><img src="./image/DJ3.png" class="imgDj" alt="ChemicalNoise"></a>
                     </div>
                     <div class="carousel-item text-center">
-                        <a href="chemical.php"><img src="./image/DJ3.png" class="imgDj" alt="ChemicalNoise"></a>
+                        <a href="euphor.php"><img src="./image/DJ5.png" class="imgDj" alt="Euphor"></a>
+                    </div>
+                    <div class="carousel-item text-center">
+                        <a href="kvera.php"><img src="./image/DJ6.png" class="imgDj" alt="Kvera"></a>
                     </div>
                 </div>
                 <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">

@@ -28,8 +28,6 @@
     <section class="social">
         <div class="container">
             <div class="row">
-
-<!-- COLUNA DO LADO ESQUERDO -->
                 <div class="col-md-7">
                     <div class="djs">
                         <div>
@@ -49,8 +47,12 @@
                             <p>PsychoCat</p>
                         </div>
                         <div>
-                            <a href="ozbits.php"><img src="./image/DJ5.png" class="imgDj" alt="Ozbits"></a>
-                            <p>Ozbits</p>
+                            <a href="euphor.php"><img src="./image/DJ5.png" class="imgDj" alt="Euphor"></a>
+                            <p>Euphor</p>
+                        </div>
+                        <div>
+                            <a href="kvera.php"><img src="./image/DJ6.png" class="imgDj" alt="Kvera"></a>
+                            <p>Kvera</p>
                         </div>
                     </div>
 
@@ -79,8 +81,6 @@
                         </audio>
                     </div>
                 </div>
-
-<!--COLUNA DO LADO DIREITO-->
 
                 <div class="col-md-5">
                     <h1> Hi > <strong> Mix </strong></h1>
